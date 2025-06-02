@@ -1,4 +1,6 @@
 # ExchangeWager
+![Badge-Conversor](https://github.com/user-attachments/assets/64ab4e45-a9f5-4526-b992-b41f893daa35)
+
 ![Static Badge](https://img.shields.io/badge/status-finished-green)
 ![Static Badge](https://img.shields.io/badge/release_date-june-gold)
 
